@@ -1,1 +1,1 @@
-This Tableau dashboard represents data of a bike company which which is expanded worldwide. This dashboard focuses on the KPIs in the german market. The dataset is from 2016, and the available data go from January to July (1st semester).
+This Tableau dashboard represents data of a bike company which is expanded worldwide. This dashboard focuses on the KPIs in the german market. The dashboard shows data of the first semester 2016 (January-July).
